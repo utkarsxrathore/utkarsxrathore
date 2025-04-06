@@ -48,9 +48,9 @@ If you're curious about the impact of high-quality backend development, or looki
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)  
-- 📧 Email: your.email@example.com  
-- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/utkarsxrathore)  
+- 📧 Email: rathore_utkarsh@outlook.com  
+- 🌐 [Portfolio Website](https://utkarsxrathore.me)
 
 ---
 
