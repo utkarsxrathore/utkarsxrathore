@@ -59,6 +59,7 @@ These roles align with my interest in securing digital ecosystems and solving co
 - 📧 Email: [utkarsxrathore@icloud.com](mailto:utkarsxrathore@icloud.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/utkarsxrathore/) 
 - 🖥️ [Kreo Tech Ambassador](https://kreo-tech.com)
+- 📄 [View My Resume](https://utkarsxrathore.github.io/resume/)
 
 ---
 
